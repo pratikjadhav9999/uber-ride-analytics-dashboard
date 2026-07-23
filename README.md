@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analyzing Uber/NCR ride bookings — covering booking trends, revenue, cancellations, vehicle-type performance, and ratings.
 
 ## 📊 Dashboard Preview
-Uber_Dashboard_Screenshots.docx
+[Uber_Dashboard_Screenshots.docx](https://github.com/pratikjadhav9999/uber-ride-analytics-dashboard/tree/main)
 
 ## 📁 Pages in This Dashboard
 
